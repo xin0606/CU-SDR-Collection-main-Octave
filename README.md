@@ -28,3 +28,12 @@ Key aspects of using an RTL-SDR as a front-end:
 *   **Wide Frequency Range:** They can typically receive signals from approximately 24 MHz to 1.7 GHz, allowing for the reception of a wide variety of signals, including FM radio, air traffic control, and satellite signals.
 *   **Function:** As a "front-end," the RTL-SDR dongle is the hardware responsible for receiving the analog radio frequency (RF) signals from an antenna, converting them into digital data, and streaming that data to a computer.
 *   **Processing:** The digital signal data from the RTL-SDR is then processed by software on the host computer, which in the case of this project, is GNU Octave.
+
+## Example Dataset
+
+Here are the dataset in various environments:
+
+**Open Sky, Static**
+
+**Harsh Environment, Static**
+
