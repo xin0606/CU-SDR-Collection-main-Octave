@@ -35,9 +35,6 @@ clear all; close all; clc;
 format ('compact');
 format ('long', 'g');
 
-% load require package
-% pkg load signal’
-
 %--- Include folders with functions ---------------------------------------
 addpath include               % The software receiver functions
 addpath Common                % Common functions between differnt SDR receivers
